@@ -1,4 +1,4 @@
-# 01_html
+
 -Türkçe
 CSS Eğitimi Çalışmalarım
 Bu dosyada Sadık Turan tarafından Komple Uygulamalı Web Geliştirme adında ki eğitiminde aldığım "CSS" derslerinin içerikleri bulunmaktadır.

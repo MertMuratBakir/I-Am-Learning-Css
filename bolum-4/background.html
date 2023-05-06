@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    /* html, body {
+        height: 100%;
+    } */
+
+    body {
+        margin: 0;
+    }
+
+    #header {
+        position: relative;
+        background-color: red;
+        background-image: url(bg.jpeg);
+        height: 100vh;
+    }
+
+    #header h1 {
+        position: absolute;
+        font-size: 80px;
+        color: red;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+    .cover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: #00ff99;
+        opacity: 0.2;
+    }
+</style>
+<body>
+
+    <div id="header">
+        <h1>Background Text</h1>
+    </div>
+    <div class="cover"></div>
+    
+    
+</body>
+</html>
